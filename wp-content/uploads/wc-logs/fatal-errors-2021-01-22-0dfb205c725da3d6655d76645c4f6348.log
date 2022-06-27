@@ -1,0 +1,18 @@
+2021-01-22T18:14:48+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 34541072 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:15:17+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 27267072 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-includes/functions.php on line 3953
+
+2021-01-22T18:16:48+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 34541072 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:17:48+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 34541072 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:18:12+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 34541072 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:19:29+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 34541072 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:52:12+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 2060288 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:55:01+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 36645016 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+
+2021-01-22T18:58:51+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 2060288 bytes) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/elementor/core/common/modules/ajax/module.php on line 265
+

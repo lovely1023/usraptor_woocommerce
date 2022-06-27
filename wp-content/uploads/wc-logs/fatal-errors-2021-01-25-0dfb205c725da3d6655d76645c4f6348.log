@@ -1,0 +1,12 @@
+2021-01-25T04:24:14+00:00 CRITICAL Cannot redeclare ts_add_text_short_descr() (previously declared in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php:631) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php on line 646
+
+2021-01-25T04:24:14+00:00 CRITICAL Cannot redeclare ts_add_text_short_descr() (previously declared in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php:631) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php on line 646
+
+2021-01-25T04:27:28+00:00 CRITICAL syntax error, unexpected 'color' (T_STRING) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php on line 632
+
+2021-01-25T04:27:39+00:00 CRITICAL syntax error, unexpected 'color' (T_STRING) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php on line 632
+
+2021-01-25T04:28:02+00:00 CRITICAL syntax error, unexpected 'notice' (T_STRING) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php on line 632
+
+2021-01-25T04:28:58+00:00 CRITICAL syntax error, unexpected 'color' (T_STRING) in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/themes/sparklestore-pro/functions.php on line 632
+

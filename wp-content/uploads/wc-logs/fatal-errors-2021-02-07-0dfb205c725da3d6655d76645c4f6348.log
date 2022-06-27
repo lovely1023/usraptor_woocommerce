@@ -1,0 +1,9 @@
+2021-02-07T12:17:36+00:00 CRITICAL Uncaught Error: Call to a member function format() on null in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/woocommerce/templates/emails/email-order-details.php:34
+Stack trace:
+#0 /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/woocommerce/includes/class-wc-emails.php(421): wc_get_template('emails/email-or...', Array)
+#2 /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-includes/class-wp-hook.php(287): WC_Emails->order_details(Object(Automattic\WooCommerce\Admin\Overrides\Order), true, false, Object(WC_Email_New_Order))
+#3 /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#4 /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-con in /home4/csenseme/public_html/ourbestportfolio/usraptor/wp-content/plugins/woocommerce/templates/emails/email-order-details.php on line 34
+
